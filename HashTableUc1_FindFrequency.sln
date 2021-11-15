@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableUc1", "HashTableUc1\HashTableUc1.csproj", "{F3FFA1BA-B41C-4403-9968-877BEC11B43F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTableUc1_FindFrequency", "HashTableUc1\HashTableUc1_FindFrequency.csproj", "{F3FFA1BA-B41C-4403-9968-877BEC11B43F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
