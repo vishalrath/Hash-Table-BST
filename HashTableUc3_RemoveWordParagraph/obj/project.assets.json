@@ -8,25 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\VISHAL\\.nuget\\packages\\": {}
+    "C:\\Users\\Vishal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VISHAL\\source\\repos\\HashTableUc3\\HashTableUc3\\HashTableUc3.csproj",
-      "projectName": "HashTableUc3",
-      "projectPath": "C:\\Users\\VISHAL\\source\\repos\\HashTableUc3\\HashTableUc3\\HashTableUc3.csproj",
-      "packagesPath": "C:\\Users\\VISHAL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VISHAL\\source\\repos\\HashTableUc3\\HashTableUc3\\obj\\",
+      "projectUniqueName": "F:\\Felloship Program\\repos\\HashTable & BST\\HashTableUc3\\HashTableUc3\\HashTableUc3_RemoveWordParagraph.csproj",
+      "projectName": "HashTableUc3_RemoveWordParagraph",
+      "projectPath": "F:\\Felloship Program\\repos\\HashTable & BST\\HashTableUc3\\HashTableUc3\\HashTableUc3_RemoveWordParagraph.csproj",
+      "packagesPath": "C:\\Users\\Vishal\\.nuget\\packages\\",
+      "outputPath": "F:\\Felloship Program\\repos\\HashTable & BST\\HashTableUc3\\HashTableUc3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\VISHAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vishal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HashTableUc3
+namespace HashTableUc3_RemoveWordParagraph
 {
     public struct KeyValue<K, V>
     {
