@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HashTableUc2
+namespace HashTableUc2_FindFrequencyParagraph
 {
     public struct KeyValue<K, V>
     {

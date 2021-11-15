@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HashTableUc2_FindFrequencyParagraph/1.0.0": {
+        "runtime": {
+          "HashTableUc2_FindFrequencyParagraph.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashTableUc2_FindFrequencyParagraph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

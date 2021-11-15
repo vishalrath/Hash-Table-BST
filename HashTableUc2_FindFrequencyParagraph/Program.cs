@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HashTableUc2
+namespace HashTableUc2_FindFrequencyParagraph
 {
     class Program
     {
