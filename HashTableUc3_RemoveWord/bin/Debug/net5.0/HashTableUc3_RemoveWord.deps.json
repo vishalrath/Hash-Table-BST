@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HashTableUc3_RemoveWord/1.0.0": {
+        "runtime": {
+          "HashTableUc3_RemoveWord.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashTableUc3_RemoveWord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

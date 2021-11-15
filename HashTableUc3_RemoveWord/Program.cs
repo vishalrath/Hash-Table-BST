@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HashTableUc3
+namespace HashTableUc3_RemoveWord
 {
     class Program
     {
